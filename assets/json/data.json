@@ -1,0 +1,58 @@
+{
+    "dietas": [
+      {
+        "nombre": "Dieta 1",
+        "comidas": {
+          "desayuno": [
+            {
+              "nombre": "Omelette",
+              "ingredientes": ["huevos", "espinacas", "tomates"],
+              "preparacion": "Batir los huevos, agregar espinacas y tomates, cocinar a fuego medio."
+            },
+            {
+              "nombre": "Avena con Frutas",
+              "ingredientes": ["avena", "leche", "fresas", "arándanos"],
+              "preparacion": "Cocinar la avena con leche y añadir fresas y arándanos."
+            }
+          ],
+          "almuerzo": [
+            {
+              "nombre": "Ensalada de Pollo",
+              "ingredientes": ["pollo", "lechuga", "tomates", "vinagreta"],
+              "preparacion": "Cocinar el pollo, cortarlo en trozos y mezclar con lechuga, tomates y vinagreta."
+            },
+            {
+              "nombre": "Pollo a la Parrilla",
+              "ingredientes": ["pollo", "limón", "pimienta"],
+              "preparacion": "Marinar el pollo con limón y pimienta, asar a la parrilla."
+            }
+          ],
+          "merienda": [
+            {
+              "nombre": "Yogurt con Frutas",
+              "ingredientes": ["yogurt", "fresas", "plátano"],
+              "preparacion": "Mezclar yogurt con fresas y plátano, servir frío."
+            },
+            {
+              "nombre": "Smoothie Verde",
+              "ingredientes": ["espinacas", "manzana", "piña"],
+              "preparacion": "Mezclar espinacas, manzana y piña en una licuadora, servir fresco."
+            }
+          ],
+          "cena": [
+            {
+              "nombre": "Pescado al Horno",
+              "ingredientes": ["filete de pescado", "limón", "ajo"],
+              "preparacion": "Aderezar el filete de pescado con limón y ajo, hornear a temperatura media."
+            },
+            {
+              "nombre": "Vegetales al Vapor",
+              "ingredientes": ["brócoli", "zanahorias", "calabacín"],
+              "preparacion": "Cocinar al vapor brócoli, zanahorias y calabacín."
+            }
+          ]
+        }
+      }
+    ]
+}
+  

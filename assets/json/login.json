@@ -1,0 +1,46 @@
+[
+  {
+    "tipo": "user",
+    "nombre": "Usuario1",
+    "edad": 25,
+    "estatura": 170.0,
+    "peso": 70.0,
+    "objetivo": "Perder Grasa",
+    "avatar": "user1.jpg",
+    "email": "user@gmail.com",
+    "contrasena": "123"
+  },
+  {
+    "tipo": "nutritionist",
+    "nombre": "Nutricionista1",
+    "edad": 30,
+    "estatura": 175.0,
+    "peso": 65.0,
+    "objetivo": "Mantener Peso",
+    "avatar": "nutritionist1.jpg",
+    "email": "nutricionista1@example.com",
+    "contrasena": "nutri2023"
+  },
+  {
+    "tipo": "user",
+    "nombre": "Usuario2",
+    "edad": 28,
+    "estatura": 160.0,
+    "peso": 60.0,
+    "objetivo": "Ganar Músculo",
+    "avatar": "user2.jpg",
+    "email": "usuario2@example.com",
+    "contrasena": "claveSegura"
+  },
+  {
+    "tipo": "nutritionist",
+    "nombre": "Nutricionista2",
+    "edad": 35,
+    "estatura": 180.0,
+    "peso": 75.0,
+    "objetivo": "Perder Grasa",
+    "avatar": "nutritionist2.jpg",
+    "email": "nutricionista2@example.com",
+    "contrasena": "nutriPass"
+  }
+]

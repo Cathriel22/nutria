@@ -1,0 +1,48 @@
+{
+  "usuarios": [
+    {
+      "nombreCompleto": "Juan Pérez",
+      "codigo": "A1B2C3D",
+      "edad": 30,
+      "peso": 70.5,
+      "altura": 175,
+      "cal": "1700",
+      "prot": "170",
+      "carb": "170",
+      "grasas": "150"
+    },
+    {
+      "nombreCompleto": "María García",
+      "codigo": "X7Y8Z9W",
+      "edad": 25,
+      "peso": 65.2,
+      "altura": 162,
+      "cal": "1700",
+      "prot": "170",
+      "carb": "170",
+      "grasas": "150"
+    },
+    {
+      "nombreCompleto": "Carlos Rodríguez",
+      "codigo": "K5L6M7N",
+      "edad": 28,
+      "peso": 80.0,
+      "altura": 180,
+      "cal": "1700",
+      "prot": "170",
+      "carb": "170",
+      "grasas": "150"
+    },
+    {
+      "nombreCompleto": "Laura Sánchez",
+      "codigo": "P9Q1R2S",
+      "edad": 35,
+      "peso": 55.8,
+      "altura": 155,
+      "cal": "1700",
+      "prot": "170",
+      "carb": "170",
+      "grasas": "150"
+    }
+  ]
+}
